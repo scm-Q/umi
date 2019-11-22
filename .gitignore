@@ -30,3 +30,5 @@ lerna-debug.log
 .umi-production
 *.sw*
 *.un~
+yarn.lock
+.idea
